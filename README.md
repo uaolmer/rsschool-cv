@@ -1,1 +1,1 @@
-[Path to CV](https://uaolmer.io/rsschool-cv/)
+[Path to CV](https://uaolmer.github.io/rsschool-cv/)
