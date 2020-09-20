@@ -1,1 +1,1 @@
-rsschool-cv
+[Link to CV](https://uaolmer.github.io/rsschool-cv/cv)
